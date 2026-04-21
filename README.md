@@ -17,6 +17,7 @@ Finding completely free, robust LLM API access can be tedious. This repository t
 
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -32,9 +33,12 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 ### 🔗 Stay Connected
 - **Website:** [stackaura.com](https://www.stackaura.com/)
-- **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
+- **LinkedIn:** [Ahmar Hussain](https://www.linkedin.com/in/ahmar204/)
+- **Facebook:** [Ahmar Hussain](https://www.facebook.com/Ahmar204)
+- **GitHub:** [@RanaAhmar](https://github.com/RanaAhmar)
 
 ---
+
 
 
 
